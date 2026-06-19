@@ -21,6 +21,7 @@ dbt_packages/
 logs/
 venv/
 profiles.yml
+graph.gpickle
 
 
 # Distribution / packaging
